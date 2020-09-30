@@ -19,7 +19,7 @@
       cin>>s;
     
     // string definition not working
-      string s2=";
+      string s2="";
       
       int i=0;
       
