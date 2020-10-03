@@ -6,7 +6,7 @@ long piter;
 #define ll long long
 #define wh(t) int t;cin>>t; while(t--)
 #define speed  ios::sync_with_stdio(0); cin.tie(0);
-
+//i have fixed your error on line 50
 // some problem with the definition
 #define endl
 #define f(i,a,b) for(int i=a;i<b;i++)
